@@ -34,6 +34,6 @@ The main findings of the code can be found at the post available [here](https://
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-This dataset is part of Airbnb Inside, and the original source can be found [here](http://insideairbnb.com/get-the-data.htm).
+This dataset is part of Airbnb Inside, and the original source can be found [here](http://insideairbnb.com/get-the-data.html).
 
   
